@@ -1,0 +1,7 @@
+# Price tracker Demo - Lohith Sai
+Fiverr: lohithseleniumpro
+
+pip install -r requirements.txt
+python scraper.py → products.csv
+
+Undetectable + Cloudflare-proof
